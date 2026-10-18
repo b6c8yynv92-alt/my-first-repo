@@ -8,7 +8,7 @@
     git push
 """
 
-PRINT_LINE = "你好，这是我的第一个 GitHub 仓库。"
+PRINT_LINE = "改好了,我学会用Git了。"
 
 
 def greet(name: str) -> str:
